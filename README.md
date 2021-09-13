@@ -29,3 +29,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/) 
 
 
+<p align="center"> Visitas desde 13/09/2021 </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="center"> Obrigado e volte sempre 😄 </p>
