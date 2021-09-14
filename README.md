@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)
-[![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante)
+[![Linkedin Badge](https://img.shields.io/badge/-MarcanteVitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)
+[![Instagram Badge](https://img.shields.io/badge/-MarcanteVitor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-MarcanteVitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
 
 
 ## 🚀💻 Technologies & Tools
@@ -65,5 +65,5 @@ I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcanteVitor&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact)
