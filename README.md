@@ -30,8 +30,9 @@ I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarcanteVitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)
 [![Instagram Badge](https://img.shields.io/badge/-MarcanteVitor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante)
-<!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
 [![Gmail Badge](https://img.shields.io/badge/-MarcanteVitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
+
 
 
 ## 🚀💻 Technologies & Tools
