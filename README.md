@@ -1,4 +1,3 @@
-
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vitor Marcante</h1>
 <p align = "justify">Web Developer, tea lover, Javascript and Node fan
 <!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
@@ -65,3 +64,8 @@ I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcanteVitor&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact)
+
+ 
+<p align="center">Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></p>
+<p align="center"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p>
+<p align="center">Obrigado e volte sempre 😄</p>
