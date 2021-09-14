@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vitor Marcante</h1>
+<p align = "justify">Web Developer, tea lover, Javascript and Node fan
+<!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
+
 <!--
 **MarcanteVitor/MarcanteVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,41 +23,9 @@ Here are some ideas to get you started:
 
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/) 
-
-
-
-
-![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Github sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<!-- ### Minhas redes sociais:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-farias-10/)](https://www.linkedin.com/in/murilo-farias-10/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//murilofarias10/)](https://github.com/Mar)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)](https://www.facebook.com/murilo.farias.3/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)](https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo.c.farias/)](https://www.instagram.com/murilo.c.farias/)
-[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias.netlify.app/)
- -->
-
-
-### Minhas informações aqui no GitHub:
-![Status](https://github-readme-stats.vercel.app/api?username=MarcanteVitor) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofarias10&layout=compact)](https://github.com/MarcanteVitor/github-readme-stats)
-
-
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="MarcanteVitor" /></p>
-
-
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
-<p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
+<!-- I'm learning at the moment **ReactNative, ReactJS, Deno** -->
 
 I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
-
-<!-- I'm learning at the moment **ReactNative, ReactJS, Deno** -->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)
@@ -64,17 +38,19 @@ I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-
-<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) -->
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -82,10 +58,11 @@ I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) -->
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
  -->
+
+
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
