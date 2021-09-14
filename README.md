@@ -63,5 +63,5 @@
 
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
-<!-- <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p> -->
+<p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p>
 <!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> -->
