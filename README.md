@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vitor Marcante</h1>
 <p align = "justify">Web Developer, tea lover, Javascript and Node fan
