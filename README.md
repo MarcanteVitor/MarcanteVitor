@@ -3,8 +3,7 @@
 <!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
 
 
-- :rocket: I’m currently working on ![imagem](https://user-images.githubusercontent.com/72169208/133176701-f9deaede-4878-42df-8b33-ffd000e52f2e.png)
-[BITZ](https://bitzsoftwares.com.br/)
+- :rocket: I’m currently working on ![imagem](https://user-images.githubusercontent.com/72169208/133176701-f9deaede-4878-42df-8b33-ffd000e52f2e.png)(https://bitzsoftwares.com.br/)
 - 🔭 I am currently about to start the Systems Development Analysis course at UTFPR University Pato Branco - PR!
 - 🌱 I’m currently learning  PHP, Vue.js, Node.js
 
