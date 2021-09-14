@@ -66,6 +66,6 @@ I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact)
 
  
-<p align="center">Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></p>
-<p align="center"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p>
-<p align="center">Obrigado e volte sempre 😄</p>
+<p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p>
+<p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p>
+<p align="left"><small>Obrigado e volte sempre 😄</small></p>
