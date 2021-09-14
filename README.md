@@ -3,7 +3,8 @@
 <!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
 
 
-- :rocket: I’m currently working on ![imagem](https://user-images.githubusercontent.com/72169208/133176579-268416e5-a2cd-4767-95bf-fac8a9c82123.png)[BITZ](https://bitzsoftwares.com.br/)
+- :rocket: I’m currently working on ![imagem](https://user-images.githubusercontent.com/72169208/133176701-f9deaede-4878-42df-8b33-ffd000e52f2e.png)
+[BITZ](https://bitzsoftwares.com.br/)
 - 🔭 I am currently about to start the Systems Development Analysis course at UTFPR University Pato Branco - PR!
 - 🌱 I’m currently learning  PHP, Vue.js, Node.js
 
@@ -35,7 +36,8 @@
 
 ## 💻 IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
