@@ -2,26 +2,15 @@
 <!-- <p align = "justify">Web Developer, tea lover, Javascript and Node fan -->
 <!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
 
-<!--
-**MarcanteVitor/MarcanteVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- :rocket: I’m currently working on ![imagem](https://user-images.githubusercontent.com/72169208/133176272-aa1dc0bf-b1a6-42e0-bf16-c5eeeffd51ad.png))
+[BITZ](https://bitzsoftwares.com.br/)
+- 🔭 I am currently about to start the Systems Development Analysis course at UTFPR University Pato Branco - PR!
+- 🌱 I’m currently learning  PHP, Vue.js, Node.js
 
 
 <!-- I'm learning at the moment **ReactNative, ReactJS, Deno** -->
 
-I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarcanteVitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)
@@ -31,15 +20,22 @@ I currently work at Bitz [BITZ](https://bitzsoftwares.com.br/)
 
 
 
-## 🚀💻 Technologies & Tools
+## 🚀 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## 🛠 Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 💻 IDE
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
