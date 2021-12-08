@@ -64,5 +64,6 @@
 
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
+[![wakatime](https://wakatime.com/badge/user/6092f6f5-03be-4e5d-8178-380f0966f337.svg)](https://wakatime.com/@6092f6f5-03be-4e5d-8178-380f0966f337)
 <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p>
 <!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> -->
