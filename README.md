@@ -59,7 +59,7 @@
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcanteVitor&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcanteVitor&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
 
  
