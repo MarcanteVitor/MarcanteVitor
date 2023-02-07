@@ -67,7 +67,7 @@ I am Vitor Marcante</h1>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcanteVitor&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical&layout=compact)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcanteVitor&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcanteVitor&" alt="MarcanteVitor" /></p>
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
 [![wakatime](https://wakatime.com/badge/user/6092f6f5-03be-4e5d-8178-380f0966f337.svg)](https://wakatime.com/@6092f6f5-03be-4e5d-8178-380f0966f337)
