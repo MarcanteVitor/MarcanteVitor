@@ -11,7 +11,7 @@ I am Vitor Marcante</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcanteVitor" alt="MarcanteVitor" /></a> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-VitorLuizMarcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)](https://www.linkedin.com/in/vitor-luiz-marcante-27543a187/)
+[![Linkedin Badge](https://img.shields.io/badge/-VitorLuizMarcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitorluizmarcante/)](https://www.linkedin.com/in/vitorluizmarcante/)
 [![Instagram Badge](https://img.shields.io/badge/-vitor.marcante-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante)
 [![Gmail Badge](https://img.shields.io/badge/-marcanteluizvitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
