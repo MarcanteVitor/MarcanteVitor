@@ -8,8 +8,7 @@ I am Vitor Marcante</h1>
 <!-- - - :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/72169208/133176845-0d31c976-2aba-4702-b873-37e728067a8d.png)](https://bitzsoftwares.com.br/) -->
 - 🔭 I am currently about the Systems Development Analysis course at UTFPR University Pato Branco - PR!
 <!-- - 🌱 I’m currently learning  PHP, Vue.js, Node.js -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcanteVitor" alt="MarcanteVitor" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcanteVitor&theme=monokai&column=7&margin-w=15&margin-h=15" alt="MarcanteVitor" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-VitorLuizMarcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitorluizmarcante/)](https://www.linkedin.com/in/vitorluizmarcante/)
 [![Instagram Badge](https://img.shields.io/badge/-vitor.marcante-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante)
