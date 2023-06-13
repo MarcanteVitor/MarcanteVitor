@@ -8,7 +8,6 @@ I am Vitor Marcante</h1>
 - 🔭 I am currently about the Systems Development Analysis course at UTFPR University Pato Branco - PR!
 <!-- - 🌱 I’m currently learning  PHP, Vue.js, Node.js -->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitorluizmarcante/)](https://www.linkedin.com/in/vitorluizmarcante/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-vitor.marcante-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante) -->
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
