@@ -49,10 +49,10 @@ I am Vitor Marcante</h1>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact) -->
 <img align="center" style="margin-top: -200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcanteVitor&" alt="MarcanteVitor" />
  
-## ⚡ WakaTime Stats
+<!--## ⚡ WakaTime Stats
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
-[![wakatime](https://wakatime.com/badge/user/6092f6f5-03be-4e5d-8178-380f0966f337.svg)](https://wakatime.com/@6092f6f5-03be-4e5d-8178-380f0966f337)
+<!--[![wakatime](https://wakatime.com/badge/user/6092f6f5-03be-4e5d-8178-380f0966f337.svg)](https://wakatime.com/@6092f6f5-03be-4e5d-8178-380f0966f337)
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcanteVitor&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
-<!-- <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p> -->
+ <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p> -->
 <!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> -->
