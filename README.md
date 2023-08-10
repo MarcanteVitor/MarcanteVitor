@@ -7,9 +7,9 @@ Hi,I am Vitor Marcante</h1>
 - 🌱 I’m currently learning Next.js
 
 - Contact me: </br>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitorluizmarcante/)](https://www.linkedin.com/in/vitorluizmarcante/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/19180773/vitor-marcante)](https://stackoverflow.com/users/19180773/vitor-marcante)
+  - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorluizmarcante/)](https://www.linkedin.com/in/vitorluizmarcante/)
+  - [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/19180773/vitor-marcante)](https://stackoverflow.com/users/19180773/vitor-marcante)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-vitor.marcante-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante) -->
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
@@ -37,24 +37,23 @@ Hi,I am Vitor Marcante</h1>
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🛠 Tools
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💻 IDE
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+## ⚡ WakaTime Stats
+[![wakatime](https://wakatime.com/badge/user/6092f6f5-03be-4e5d-8178-380f0966f337.svg)](https://wakatime.com/@6092f6f5-03be-4e5d-8178-380f0966f337)
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcanteVitor&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
+
+
 
 ## ⚡ GitHub Stats
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcanteVitor&theme=monokai&column=7&margin-w=15&margin-h=15" alt="MarcanteVitor" /></a>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcanteVitor&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical&layout=compact)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcanteVitor&hide=TeX&layout=compact) -->
+
 <img align="center" style="margin-top: -200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcanteVitor&" alt="MarcanteVitor" />
 
-<!--## ⚡ WakaTime Stats
-<!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
-<!--[![wakatime](https://wakatime.com/badge/user/6092f6f5-03be-4e5d-8178-380f0966f337.svg)](https://wakatime.com/@6092f6f5-03be-4e5d-8178-380f0966f337)
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcanteVitor&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
- <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=MarcanteVitor" alt="dexternatan" /></p> -->
-<!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> -->
