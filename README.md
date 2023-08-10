@@ -1,6 +1,20 @@
-Hi,I am Vitor Marcante</h1>
-<!-- <p align = "justify">Web Developer, capybara lover, Javascript and Node fan -->
+<div align="center">
+<h2 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vitor Marcante</h2>
 
+ <!--
+ <h4>About me</h4>
+I am a web programmer graduated in systems from UTFPR。
+  
+I graduated with honors in 2 and a half years from a 3-year course, passing sufficiency tests。
+
+I previously worked at a company focused on providing solutions for gas stations, gaining experience in the mobile area and initial exposure to payment machines。
+
+Currently, I work as a programmer at Oniun, in the Development department。
+
+Between the years 2022 and 2023, I participated in an extension project called "DASS Scale" at the State University of West Paraná, with the scope of calculating and disseminating psychological results in the field of Medicine, providing support to professionals in the field, and gaining extensive experience in mobile application development。
+
+I am proactive and have good writing skills, making it easy for me to learn and adapt to a new work environment and team. I am eager to acquire new skills and further develop my previous experiences in the programming field。<br><br> -->
+</div>
 
 - :rocket: I currently work as a Web Developer with Spring and Angular.
 - 🔭 I currently about the Systems Development Analysis course at UTFPR University Pato Branco - PR!
@@ -10,14 +24,13 @@ Hi,I am Vitor Marcante</h1>
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorluizmarcante/)](https://www.linkedin.com/in/vitorluizmarcante/)
   - [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/19180773/vitor-marcante)](https://stackoverflow.com/users/19180773/vitor-marcante)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-vitor.marcante-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor.marcante/?hl=pt-br)](https://instagram.com/vitor.marcante) -->
+ <!--  
+ - ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
+ - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+ -->
 
-<!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
-
-
-
+ 
 ## 📋 Languages
-
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,17 +40,23 @@ Hi,I am Vitor Marcante</h1>
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📚 Frameworks, Platforms, Libraries and ORM's
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   
 ## 🎲 Database
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🛠 Tools
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ## 💻 IDE
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
