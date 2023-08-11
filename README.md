@@ -18,7 +18,7 @@ I am proactive and have good writing skills, making it easy for me to learn and 
 
 - :rocket: I currently work as a Web Developer with Spring and Angular.
 - 🔭 I currently about the Systems Development Analysis course at UTFPR University Pato Branco - PR!
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Nest.js
 
 - Contact me: </br>
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcanteluizvitor@gmail.com)](mailto:marcanteluizvitor@gmail.com)
