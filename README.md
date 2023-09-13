@@ -71,9 +71,9 @@ I am proactive and have good writing skills, making it easy for me to learn and 
 
 
 ## ⚡ GitHub Stats
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcanteVitor&theme=monokai&column=7&margin-w=15&margin-h=15" alt="MarcanteVitor" /></a>
 <!-- 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcanteVitor&theme=monokai&column=7&margin-w=15&margin-h=15" alt="MarcanteVitor" /></a>
+
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcanteVitor&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical&layout=compact)
  <img align="center" style="margin-top: -200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcanteVitor&" alt="MarcanteVitor" />
 -->
